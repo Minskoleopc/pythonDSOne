@@ -175,6 +175,12 @@ else:
 print("c" in "chinmay")
 
 
+# program 1
+def printName(fn,ln):
+    print("My firstName is {} and my lastName is {}".format(fn,ln))
+
+printName("chinmay","deshpande")
+printName("mayuri","katwe")
 
 
 
